@@ -41,7 +41,7 @@ Explore the report pages and use the slicers to interact with the data.
 
 Add a screenshot of your dashboard here for a quick visual preview.
 To add one: take a screenshot of the report in Power BI, save it as dashboard_preview.png in the repo, and replace this note with:
-markdown![Dashboard Preview](dashboard_preview.png)
+[Dashboard Preview](dashboard_preview.png)
 
 
 #### Use Cases
