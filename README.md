@@ -9,12 +9,12 @@ FileDescriptionBi_Mobile sales.pbixPower BI Desktop report file containing all d
 
 ### Key Insights & Features
 
-#### Sales Performance Overview — Total revenue, units sold, and average selling price at a glance
-#### Brand-wise Comparison — Side-by-side analysis of top mobile brands by revenue and volume
-#### Time-Series Trends — Monthly and quarterly sales trends to identify seasonal patterns
-#### Regional Breakdown — Geographic distribution of sales across cities/regions
-#### Top Models — Best-selling mobile models ranked by quantity and revenue
-#### Interactive Filters — Slicers for brand, model, time period, and region for dynamic exploration
+ Sales Performance Overview — Total revenue, units sold, and average selling price at a glance
+ Brand-wise Comparison — Side-by-side analysis of top mobile brands by revenue and volume
+ Time-Series Trends — Monthly and quarterly sales trends to identify seasonal patterns
+ Regional Breakdown — Geographic distribution of sales across cities/regions
+ Top Models — Best-selling mobile models ranked by quantity and revenue
+ Interactive Filters — Slicers for brand, model, time period, and region for dynamic exploration
 
 
 ### Tools & Technologies
