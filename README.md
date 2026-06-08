@@ -37,7 +37,7 @@ The dashboard highlights that mobile sales analysis is most valuable when it com
 
 The project also shows that monthly trend analysis is important for spotting demand shifts over time and for identifying when sales performance improves or weakens.
 
-![Dashboard Screenshot][https://github.com/rt5899-art/Mobile_Sales_Analysis/blob/main/SS%20of%20mobile%20sales%20bi.png?raw=true]
+!(https://github.com/rt5899-art/Mobile_Sales_Analysis/blob/main/SS%20of%20mobile%20sales%20bi.png?raw=true)
 
 A strong takeaway from the analysis is that decision-making improves when metrics are presented together rather than in isolation, because revenue, units sold, and average selling price tell a more complete story when viewed side by side
 
