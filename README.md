@@ -8,7 +8,6 @@ This project features a comprehensive Power BI dashboard designed to track, anal
 
 ![image alt](https://github.com/rt5899-art/Mobile_Sales_Analysis/blob/1beb05451e8ef3335e64d2ce7e90e890a96c83ac/SS%20of%20mobile%20sales%20bi.png)
 
-
 #### Tools & Technologies
 
 Data Visualization: Microsoft Power BI
@@ -16,8 +15,6 @@ Data Visualization: Microsoft Power BI
 Data Engineering: Power Query for data transformation and cleaning
 
 Analysis: DAX (Data Analysis Expressions) for custom KPIs and time-series calculations
-
-Core Visuals: Interactive geographic bubble maps, multi-row cards, funnel charts, and custom line-bar trend indicators
 
 #### Key Business Insights
 
@@ -50,11 +47,3 @@ Insight: Sales volumes drop sharply toward the end of the week (Thursday to Satu
 Insight: Customer rating drops follow a steep funnel decline.
 
 ➔ Action: Implement an automated post-purchase follow-up system for customers providing mid-to-low ratings to address service gaps and preserve brand loyalty.
-
-##### How to Explore
-
-Clone the repository using git clone https://github.com/rt5899-art/Mobile_Sales_Analysis.git.
-
-Open the .pbix file using Power BI Desktop.
-
-Use the dynamic sidebar slicers (Months, Mobile Model, Payment Method, Brand) to filter data dynamically.
