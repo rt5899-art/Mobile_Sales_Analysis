@@ -18,17 +18,17 @@ Analysis: DAX (Data Analysis Expressions) for custom KPIs and time-series calcul
 
 #### Key Business Insights
 
-Sales Overview: Generated 769M in Total Sales across 19K Total Quantity sold, spanning 4K transactions with an Average Price of 40K per unit.
+* Sales Overview: Generated 769M in Total Sales across 19K Total Quantity sold, spanning 4K transactions with an Average Price of 40K per unit.
 
-Geographic Clusters: Major sales volume is concentrated in key Indian metropolitan hubs and Tier-1 cities, with prominent performance visible in Lucknow, Delhi, Indore, and Mumbai.
+* Geographic Clusters: Major sales volume is concentrated in key Indian metropolitan hubs and Tier-1 cities, with prominent performance visible in Lucknow, Delhi, Indore, and Mumbai.
 
-Brand Standings: Apple leads the pack with 161.6M in sales, followed closely by OnePlus (153.7M), Samsung (160.0M), Vivo (150.1M), and Xiaomi (143.7M).
+* Brand Standings: Apple leads the pack with 161.6M in sales, followed closely by OnePlus (153.7M), Samsung (160.0M), Vivo (150.1M), and Xiaomi (143.7M).
 
-Payment Preferences: Transaction methods are remarkably balanced, with UPI leading at 25.8%, followed by Credit Card (25.5%), Cash (24.7%), and Debit Card (24.0%).
+* Payment Preferences: Transaction methods are remarkably balanced, with UPI leading at 25.8%, followed by Credit Card (25.5%), Cash (24.7%), and Debit Card (24.0%).
 
-Customer Sentiment: Funnel distributions show top-tier customer ratings capturing the majority volume, with the highest rating band accounting for 575 records.
+* Customer Sentiment: Funnel distributions show top-tier customer ratings capturing the majority volume, with the highest rating band accounting for 575 records.
 
-Temporal Patterns: Monthly sales quantities remain steady, hovering consistently between 1,400 to 1,700 units per month, showing stable year-round demand.
+* Temporal Patterns: Monthly sales quantities remain steady, hovering consistently between 1,400 to 1,700 units per month, showing stable year-round demand.
 
 #### Strategic Recommendations
 
