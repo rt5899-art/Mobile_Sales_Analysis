@@ -12,7 +12,7 @@ This project features a comprehensive Power BI dashboard designed to track, anal
 
 Data Visualization: Microsoft Power BI
 
-Data Engineering: Power Query for data transformation and cleaning
+Platform : Microsoft Excel
 
 Analysis: DAX (Data Analysis Expressions) for custom KPIs and time-series calculations
 
@@ -30,7 +30,7 @@ Analysis: DAX (Data Analysis Expressions) for custom KPIs and time-series calcul
 
 * Temporal Patterns: Monthly sales quantities remain steady, hovering consistently between 1,400 to 1,700 units per month, showing stable year-round demand.
 
-#### Strategic Recommendations
+####  Recommendations
 
 Insight: Payment methods are almost perfectly split between UPI, Cards, and Cash, showing no single dominant channel.
 
