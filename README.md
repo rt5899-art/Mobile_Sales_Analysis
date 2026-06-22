@@ -32,18 +32,18 @@ Analysis: DAX (Data Analysis Expressions) for custom KPIs and time-series calcul
 
 ####  Recommendations
 
-Insight: Payment methods are almost perfectly split between UPI, Cards, and Cash, showing no single dominant channel.
+**Insight:** Payment methods are almost perfectly split between UPI, Cards, and Cash, showing no single dominant channel.
 
 ➔ Action: Maintain strong partnerships with all payment gateways and introduce exclusive bank or UPI-specific cashback offers to incentivize higher basket values.
 
-Insight: Apple and Samsung lead total revenue generation, but volume margins remain highly competitive across all top 5 brands.
+**Insight:** Apple and Samsung lead total revenue generation, but volume margins remain highly competitive across all top 5 brands.
 
 ➔ Action: Allocate prime marketing display banners and regional inventory stock to premium models (like iPhone SE and OnePlus Nord) in high-performing cities like Lucknow and Delhi.
 
-Insight: Sales volumes drop sharply toward the end of the week (Thursday to Saturday) based on weekly sales charts.
+**Insight:** Sales volumes drop sharply toward the end of the week (Thursday to Saturday) based on weekly sales charts.
 
 ➔ Action: Launch targeted weekend promotional campaigns or "Flash Sales" starting Thursday evenings to capture weekend consumer traffic and level out weekly revenue dips.
 
-Insight: Customer rating drops follow a steep funnel decline.
+**Insight:** Customer rating drops follow a steep funnel decline.
 
 ➔ Action: Implement an automated post-purchase follow-up system for customers providing mid-to-low ratings to address service gaps and preserve brand loyalty.
