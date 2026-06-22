@@ -6,7 +6,7 @@ This project features a comprehensive Power BI dashboard designed to track, anal
 
 #### Dashboard Preview
 
-![image alt](https://github.com/rt5899-art/Mobile_Sales_Analysis/blob/1beb05451e8ef3335e64d2ce7e90e890a96c83ac/SS%20of%20mobile%20sales%20bi.png)
+![image alt](https://github.com/rt5899-art/Mobile_Sales_Analysis/blob/main/moile%20sales.png?raw=true)
 
 #### Tools & Technologies
 
